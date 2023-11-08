@@ -1,4 +1,4 @@
-package com.dakam.wallmartapp
+package com.vanitar.wallmartapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

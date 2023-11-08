@@ -1,4 +1,4 @@
-package com.dakam.wallmartapp
+package com.vanitar.wallmartapp
 
 import org.junit.Test
 

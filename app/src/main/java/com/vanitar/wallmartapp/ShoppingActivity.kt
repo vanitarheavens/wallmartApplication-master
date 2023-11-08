@@ -7,6 +7,7 @@ import android.widget.TextView
 import android.widget.Toast
 import com.dakam.wallmartapp.R
 
+
 class ShoppingActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

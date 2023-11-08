@@ -7,10 +7,8 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
-import android.widget.Toast
 import androidx.activity.result.contract.ActivityResultContracts
 import com.dakam.wallmartapp.R
-import java.time.Duration
 import java.util.ArrayList
 
 class MainActivity : AppCompatActivity() {
